@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
