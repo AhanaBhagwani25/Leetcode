@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -65,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
