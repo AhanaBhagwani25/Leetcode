@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AhanaBhagwani25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AhanaBhagwani25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
