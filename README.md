@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0500-keyboard-row) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AhanaBhagwani25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0511-game-play-analysis-i) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/AhanaBhagwani25/Leetcode/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
